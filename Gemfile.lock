@@ -1,5 +1,5 @@
 GIT
-  remote: git://github.com/elshaka/websocket-rails.git
+  remote: https://github.com/websocket-rails/websocket-rails.git
   revision: f849e8a6c7ec5b45bba89226034f23e4847790ca
   specs:
     websocket-rails (0.7.0)
