@@ -49,4 +49,4 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'rmodbus'
 
 # Websockets for Rails
-gem 'websocket-rails', git: 'git://github.com/elshaka/websocket-rails.git'
+gem 'websocket-rails', git: 'https://github.com/websocket-rails/websocket-rails.git'
